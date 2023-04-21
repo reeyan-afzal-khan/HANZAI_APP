@@ -1,0 +1,4 @@
+<div class='urduBullets'><p style='margin-top:20px'>۱) <span class='urduSentence'>لیکن، پھر بھی</span></p></div>
+<div class='urduBullets'><p style='margin-top:0px'>۲) <span class='urduSentence'>تاہم، جبکہ</span></p></div>
+<div class='urduBullets'><p style='margin-top:0px'>۳) <span class='urduSentence'>واپس جانا، انکار کرنا</span></p></div>
+<div class='urduBullets'><p style='margin-top:0px'>۴) <span class='urduSentence'>پیچھے ہٹنا، اس کے باوجود، اگرچہ</span></p></div>

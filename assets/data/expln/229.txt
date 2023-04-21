@@ -1,0 +1,4 @@
+<div class='urduBullets'><p style='margin-top:20px'>۱) <span class='urduSentence'>بھرنا، مطمئن کرنا</span></p></div>
+<div class='urduBullets'><p style='margin-top:0px'>۲) <span class='urduSentence'>پورا کرنا</span></p></div>
+<div class='urduBullets'><p style='margin-top:0px'>۳) <span class='urduSentence'>کی جگہ پر عمل کرنا</span></p></div>
+<div class='urduBullets'><p style='margin-top:0px'>۴) <span class='urduSentence'>متبادل، کافی</span></p></div>

@@ -1,0 +1,4 @@
+<div class='urduBullets'><p style='margin-top:20px'>۱) <span class='urduSentence'>بکھرنا، ٹوٹنا ( ملاقات وغیرہ )</span></p></div>
+<div class='urduBullets'><p style='margin-top:0px'>۲) <span class='urduSentence'>منتشر کرنا، پھیلانا</span></p></div>
+<div class='urduBullets'><p style='margin-top:0px'>۳) <span class='urduSentence'>( sǎn ) بکھرا ہوا، ڈھیلا</span></p></div>
+<div class='urduBullets'><p style='margin-top:0px'>۴) <span class='urduSentence'>( sǎn ) پاؤڈر دوا</span></p></div>

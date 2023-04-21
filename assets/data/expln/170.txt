@@ -1,0 +1,3 @@
+<div class='urduBullets'><p style='margin-top:20px'>۱) <span class='urduSentence'>دفاع کرنا، حفاظت کرنا</span></p></div>
+<div class='urduBullets'><p style='margin-top:0px'>۲) <span class='urduSentence'>ضمانت دینا، یقینی بنانا</span></p></div>
+<div class='urduBullets'><p style='margin-top:0px'>۳) <span class='urduSentence'>( Bǎo ) بلغاریہ کا مخفف</span></p></div>

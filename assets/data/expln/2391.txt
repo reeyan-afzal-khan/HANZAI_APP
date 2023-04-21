@@ -1,0 +1,4 @@
+<div class='urduBullets'><p style='margin-top:20px'>۱) <span class='urduSentence'>بدتمیز، خام</span></p></div>
+<div class='urduBullets'><p style='margin-top:0px'>۲) <span class='urduSentence'>نامکمل، بے ہودہ</span></p></div>
+<div class='urduBullets'><p style='margin-top:0px'>۳) <span class='urduSentence'>موٹے، کھردرے</span></p></div>
+<div class='urduBullets'><p style='margin-top:0px'>۴) <span class='urduSentence'>موٹی ( سلنڈرک اشیاء کے لیے )</span></p></div>

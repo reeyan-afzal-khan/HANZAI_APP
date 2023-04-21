@@ -1,0 +1,4 @@
+<div class='urduBullets'><p style='margin-top:20px'>۱) <span class='urduSentence'>عام</span></p></div>
+<div class='urduBullets'><p style='margin-top:0px'>۲) <span class='urduSentence'>جنرل</span></p></div>
+<div class='urduBullets'><p style='margin-top:0px'>۳) <span class='urduSentence'>اشتراک کرنا</span></p></div>
+<div class='urduBullets'><p style='margin-top:0px'>۴) <span class='urduSentence'>ایک ساتھ</span></p></div>

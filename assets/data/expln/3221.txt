@@ -1,0 +1,4 @@
+<div class='urduBullets'><p style='margin-top:20px'>۱) <span class='urduSentence'>تمام، مکمل طور پر</span></p></div>
+<div class='urduBullets'><p style='margin-top:0px'>۲) <span class='urduSentence'>یہاں تک کہ، پہلے ہی، (نہیں) بالکل بھی</span></p></div>
+<div class='urduBullets'><p style='margin-top:0px'>۳) <span class='urduSentence'>( dū ) دارالحکومت شہر، میٹروپولیس</span></p></div>
+<div class='urduBullets'><p style='margin-top:0px'>۴) <span class='urduSentence'>( Dū ) خاندانی نام ( کسی فرد کا )</span></p></div>

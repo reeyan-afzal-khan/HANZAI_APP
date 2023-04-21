@@ -1,0 +1,3 @@
+<div class='urduBullets'><p style='margin-top:20px'>۱) <span class='urduSentence'>بو</span></p></div>
+<div class='urduBullets'><p style='margin-top:0px'>۲) <span class='urduSentence'>ذائقہ</span></p></div>
+<div class='urduBullets'><p style='line-height:1.7'>۳) <span class='urduSentence'>دوائیوں کے لیے درجہ بندی کرنے والا ( روایتی چینی طب میں )</span></p></div>

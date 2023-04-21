@@ -1,0 +1,2 @@
+<div class='urduBullets'><p style='margin-top:20px'>۱) <span class='urduSentence'>سکہ، پیسہ</span></p></div>
+<div class='urduBullets'><p style='line-height:1.5'>۲) <span class='urduSentence'>وزن کی اکائی، ٹیل کا دسواں حصہ</span></p></div>

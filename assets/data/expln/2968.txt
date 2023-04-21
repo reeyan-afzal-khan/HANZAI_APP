@@ -1,0 +1,3 @@
+<div class='urduBullets'><p style='margin-top:20px'>۱) <span class='urduSentence'>منتقل کرنا</span></p></div>
+<div class='urduBullets'><p style='margin-top:0px'>۲) <span class='urduSentence'>( tiáo ) ہم آہنگی کرنا، صلح کرنا</span></p></div>
+<div class='urduBullets'><p style='margin-top:0px'>۳) <span class='urduSentence'>( tiáo ) ملانا، اچھی طرح سے</span></p></div>

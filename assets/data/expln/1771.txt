@@ -1,0 +1,2 @@
+<div class='urduBullets'><p style='margin-top:20px'>۱) <span class='urduSentence'>چھوٹی ندی</span></p></div>
+<div class='urduBullets'><p style='margin-top:0px'>۲) <span class='urduSentence'>ایک چشمے کا منہ</span></p></div>

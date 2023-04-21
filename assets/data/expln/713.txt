@@ -1,0 +1,2 @@
+<div class='urduBullets'><p style='margin-top:20px'>۱) <span class='urduSentence'>موسم گرما</span></p></div>
+<div class='urduBullets'><p style='margin-top:0px'>۲) <span class='urduSentence'>( Xià ) شاہی گھرانہ c. 2000 قبل مسیح</span></p></div>

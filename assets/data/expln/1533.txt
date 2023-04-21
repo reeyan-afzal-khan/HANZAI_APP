@@ -1,0 +1,3 @@
+<div class='urduBullets'><p style='margin-top:20px'>۱) <span class='urduSentence'>پٹی، شے، مضمون</span></p></div>
+<div class='urduBullets'><p style='margin-top:0px'>۲) <span class='urduSentence'>شق (قانون یا معاہدہ)</span></p></div>
+<div class='urduBullets'><p style='line-height:1.5'>۳) <span class='urduSentence'>لمبی پتلی چیزوں کے لیے درجہ بندی کرنے والا (ربن، ندی، سڑک، پتلون وغیرہ)</span></p></div>

@@ -1,0 +1,2 @@
+<div class='urduBullets'><p style='margin-top:20px'>۱) <span class='urduSentence'>گھر</span></p></div>
+<div class='urduBullets'><p style='margin-top:0px'>۲) <span class='urduSentence'>کمرہ</span></p></div>

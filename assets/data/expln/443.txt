@@ -1,0 +1,3 @@
+<div class='urduBullets'><p style='margin-top:20px'>۱) <span class='urduSentence'>تبدیل کرنا</span></p></div>
+<div class='urduBullets'><p style='margin-top:0px'>۲) <span class='urduSentence'>مختلف بننے کے لئے</span></p></div>
+<div class='urduBullets'><p style='margin-top:0px'>۳) <span class='urduSentence'>مختلف ہونا، بغاوت</span></p></div>

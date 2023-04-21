@@ -1,0 +1,3 @@
+<div class='urduBullets'><p style='margin-top:0px'>۱) <span class='urduSentence'>منہ</span></p></div>
+<div class='urduBullets'><p style='line-height:1.6'>۲) <span class='urduSentence'>منہ والی چیزوں کے لیے درجہ بندی کرنے والا ( لوگ، گھریلو جانور، توپیں، کنویں وغیرہ )</span></p></div>
+<div class='urduBullets'><p style='margin-top:0px'>۳) <span class='urduSentence'>کاٹنے کے لیے درجہ بندی کرنے والا</span></p></div>

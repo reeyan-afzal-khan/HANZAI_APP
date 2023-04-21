@@ -1,0 +1,2 @@
+<div class='urduBullets'><p style='margin-top:20px'>۱) <span class='urduSentence'>دوا، دوائی</span></p></div>
+<div class='urduBullets'><p style='line-height:1.7'>۲) <span class='urduSentence'>کسی خاص مقصد کے لیے استعمال ہونے والا مادہ ( مثلاً زہر، دھماکہ، خمیر )</span></p></div>

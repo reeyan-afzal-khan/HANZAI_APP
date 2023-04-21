@@ -1,0 +1,2 @@
+<div class='urduBullets'><p style='margin-top:20px'>۱) <span class='urduSentence'>( سورج کا ) چمکنا</span></p></div>
+<div class='urduBullets'><p style='margin-top:0px'>۲) <span class='urduSentence'>دھوپ میں خشک کرنا ( کپڑے، اناج وغیرہ )</span></p></div>

@@ -1,0 +1,2 @@
+<div class='urduBullets'><p style='margin-top:20px'>۱) <span class='urduSentence'>سیٹ، بنیاد، موقف</span></p></div>
+<div class='urduBullets'><p style='line-height:1.7'>۲) <span class='urduSentence'>عمارتوں، پہاڑوں اور اسی طرح کی غیر منقولہ اشیاء کے لیے درجہ بندی</span></p></div>

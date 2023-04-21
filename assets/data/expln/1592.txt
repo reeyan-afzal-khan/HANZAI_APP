@@ -1,0 +1,2 @@
+<div class='urduBullets'><p style='margin-top:20px'>۱) <span class='urduSentence'>اسکول، فوجی افسر</span></p></div>
+<div class='urduBullets'><p style='margin-top:0px'>۲) <span class='urduSentence'>( jiào ) کو پروف ریڈ کرنا، جانچنا، موازنہ کرنا</span></p></div>

@@ -1,0 +1,2 @@
+<div class='urduBullets'><p style='margin-top:20px'>۱) <span class='urduSentence'>اکٹھا ہونا</span></p></div>
+<div class='urduBullets'><p style='line-height:1.7'>۲) <span class='urduSentence'>ٹی وی سیریز وغیرہ کے حصوں کے لیے درجہ بندی کرنے والا: ایپیسوڈ</span></p></div>

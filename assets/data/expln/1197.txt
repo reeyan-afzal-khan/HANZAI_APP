@@ -1,0 +1,3 @@
+<div class='urduBullets'><p style='margin-top:20px'>۱) <span class='urduSentence'>ہاتھ</span></p></div>
+<div class='urduBullets'><p style='margin-top:0px'>۲) <span class='urduSentence'>( رسمی ) رکھنا</span></p></div>
+<div class='urduBullets'><p style='line-height:1.5'>۳) <span class='urduSentence'>کسی خاص قسم کے کام میں ماہر شخص</span></p></div>

@@ -1,0 +1,2 @@
+<div class='urduBullets'><p style='margin-top:20px'>۱) <span class='urduSentence'>کیسے؛ کونسا</span></p></div>
+<div class='urduBullets'><p style='line-height:1.5'>۲) <span class='urduSentence'>( něi ) کون سا؟ ( تفتیش، اس کے بعد درجہ بندی یا عددی درجہ بندی )</span></p></div>

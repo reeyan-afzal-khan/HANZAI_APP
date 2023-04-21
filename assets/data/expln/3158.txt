@@ -1,0 +1,3 @@
+<div class='urduBullets'><p style='margin-top:20px'>۱) <span class='urduSentence'>خوش آمدید</span></p></div>
+<div class='urduBullets'><p style='margin-top:0px'>۲) <span class='urduSentence'>ملنا، سامنا کرنا</span></p></div>
+<div class='urduBullets'><p style='line-height:1.7'>۳) <span class='urduSentence'>آگے بڑھنا ( خاص طور پر مشکلات کا سامنا کرتے ہوئے )</span></p></div>

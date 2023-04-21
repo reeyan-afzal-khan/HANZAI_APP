@@ -1,0 +1,2 @@
+<div class='urduBullets'><p style='margin-top:20px'>۱) <span class='urduSentence'>ٹپٹو پر کھڑے ہونے کے لئے</span></p></div>
+<div class='urduBullets'><p style='line-height:1.7'>۲) <span class='urduSentence'>ایک منصوبے کی منصوبہ بندی کرنے کے لئے</span></p></div>

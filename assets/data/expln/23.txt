@@ -1,0 +1,3 @@
+<div class='urduBullets'><p style='margin-top:20px'>۱) <span class='urduSentence'>دو ( عدد )، دونوں</span></p></div>
+<div class='urduBullets'><p style='margin-top:0px'>۲) <span class='urduSentence'>کچھ</span></p></div>
+<div class='urduBullets'><p style='line-height:1.5'>۳) <span class='urduSentence'>50 گرام ( جدید ) یا 1⁄16 کے برابر وزن کی اکائی</span></p></div>

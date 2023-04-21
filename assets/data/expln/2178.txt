@@ -1,0 +1,3 @@
+<div class='urduBullets'><p style='margin-top:20px'>۱) <span class='urduSentence'>آنکھ</span></p></div>
+<div class='urduBullets'><p style='margin-top:0px'>۲) <span class='urduSentence'>چھوٹا سوراخ</span></p></div>
+<div class='urduBullets'><p style='line-height:1.7'>۳) <span class='urduSentence'>بڑی کھوکھلی چیزوں کے لیے درجہ بندی کرنے والا ( کنویں، چولہے، برتن وغیرہ )</span></p></div>

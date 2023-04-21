@@ -1,0 +1,3 @@
+<div class='urduBullets'><p style='margin-top:20px'>۱) <span class='urduSentence'>بھی</span></p></div>
+<div class='urduBullets'><p style='margin-top:0px'>۲) <span class='urduSentence'>اس کے علاوہ</span></p></div>
+<div class='urduBullets'><p style='line-height:1.5'>۳) <span class='urduSentence'>خاندانی نام ( کسی فرد کا )</span></p></div>

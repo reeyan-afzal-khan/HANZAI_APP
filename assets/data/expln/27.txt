@@ -1,0 +1,3 @@
+<div class='urduBullets'><p style='margin-top:20px'>۱) <span class='urduSentence'>فرد</span></p></div>
+<div class='urduBullets'><p style='margin-top:0px'>۲) <span class='urduSentence'>سائز</span></p></div>
+<div class='urduBullets'><p style='line-height:1.5'>۳) <span class='urduSentence'>عام طور پر لوگوں یا اشیاء کے لیے درجہ بندی کرنے والا</span></p></div>

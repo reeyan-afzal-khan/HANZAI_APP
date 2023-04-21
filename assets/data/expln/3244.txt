@@ -1,0 +1,2 @@
+<div class='urduBullets'><p style='margin-top:20px'>۱) <span class='urduSentence'>( chóng ) دہرانا، دوبارہ</span></p></div>
+<div class='urduBullets'><p style='margin-top:0px'>۲) <span class='urduSentence'>( zhòng ) بھاری، سنجیدہ، اہمیت دینا</span></p></div>

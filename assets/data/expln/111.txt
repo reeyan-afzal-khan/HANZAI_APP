@@ -1,0 +1,3 @@
+<div class='urduBullets'><p style='margin-top:20px'>۱) <span class='urduSentence'>آئٹم</span></p></div>
+<div class='urduBullets'><p style='margin-top:0px'>۲) <span class='urduSentence'>اجزاء</span></p></div>
+<div class='urduBullets'><p style='line-height:1.7'>۳) <span class='urduSentence'>واقعات، چیزوں، کپڑے وغیرہ کے لیے درجہ بندی کرنے والا</span></p></div>

@@ -1,0 +1,2 @@
+<div class='urduBullets'><p style='margin-top:20px'>۱) <span class='urduSentence'> (dì) زمین / گراؤنڈ / فیلڈ / جگہ</span></p></div>
+<div class='urduBullets'><p style='line-height:1.6'>۲) <span class='urduSentence'>ساختی ذرہ: فعل یا صفت سے پہلے استعمال کیا جاتا ہے، اسے ایڈوربیل ایڈجینٹ سے پہلے ترمیم کرنے سے جوڑتا ہے</span></p></div>

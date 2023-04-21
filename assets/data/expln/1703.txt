@@ -1,0 +1,3 @@
+<div class='urduBullets'><p style='margin-top:20px'>۱) <span class='urduSentence'>پیراگراف، سیکشن</span></p></div>
+<div class='urduBullets'><p style='margin-top:0px'>۲) <span class='urduSentence'>طبقہ، مرحلہ ( ایک عمل کا )</span></p></div>
+<div class='urduBullets'><p style='line-height:1.7'>۳) <span class='urduSentence'>کہانیوں کے لیے درجہ بندی، وقت کی مدت، دھاگے کی لمبائی وغیرہ</span></p></div>

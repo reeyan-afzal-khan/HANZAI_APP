@@ -1,0 +1,3 @@
+<div class='urduBullets'><p style='margin-top:20px'>۱) <span class='urduSentence'>پہیہ</span></p></div>
+<div class='urduBullets'><p style='margin-top:0px'>۲) <span class='urduSentence'>ڈسک، انگوٹی</span></p></div>
+<div class='urduBullets'><p style='line-height:1.7'>۳) <span class='urduSentence'>بڑی گول اشیاء کے لیے درجہ بندی: ڈسک، یا بار بار آنے والے واقعات: گول، موڑ</span></p></div>

@@ -1,0 +1,3 @@
+<div class='urduBullets'><p style='margin-top:20px'>۱) <span class='urduSentence'>کچھ، چند</span></p></div>
+<div class='urduBullets'><p style='margin-top:0px'>۲) <span class='urduSentence'>کئی</span></p></div>
+<div class='urduBullets'><p style='line-height:1.5'>۳) <span class='urduSentence'>چھوٹی تعداد کی نشاندہی کرنے والے لفظ کی پیمائش کریں ( 1 سے زیادہ )</span></p></div>

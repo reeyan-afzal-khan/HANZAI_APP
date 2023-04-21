@@ -1,0 +1,2 @@
+<div class='urduBullets'><p style='margin-top:20px'>۱) <span class='urduSentence'>شیٹ، تحریر کا ٹکڑا</span></p></div>
+<div class='urduBullets'><p style='line-height:1.7'>۲) <span class='urduSentence'>تحریری اشیاء کے لیے درجہ بندی: باب، مضمون</span></p></div>

@@ -1,0 +1,3 @@
+<div class='urduBullets'><p style='margin-top:20px'>۱) <span class='urduSentence'>باندھنا، گچھا کرنا</span></p></div>
+<div class='urduBullets'><p style='line-height:1.7'>۲) <span class='urduSentence'>گچھے، بنڈل، روشنی کے شہتیر وغیرہ کے لیے درجہ بندی</span></p></div>
+<div class='urduBullets'><p style='margin-top:0px'>۳) <span class='urduSentence'>خاندانی نام ( کسی فرد کا )</span></p></div>

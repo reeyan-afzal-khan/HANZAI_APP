@@ -1,0 +1,2 @@
+<div class='urduBullets'><p style='margin-top:20px'>۱) <span class='urduSentence'>( اسم کے بعد ) اس میں شامل شخص...</span></p></div>
+<div class='urduBullets'><p style='margin-top:0px'>۲) <span class='urduSentence'>پہلے ذکر کردہ کسی چیز کا حوالہ دینا</span></p></div>

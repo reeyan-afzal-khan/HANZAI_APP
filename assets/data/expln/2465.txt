@@ -1,0 +1,3 @@
+<div class='urduBullets'><p style='margin-top:20px'>۱) <span class='urduSentence'>خلاصہ</span></p></div>
+<div class='urduBullets'><p style='margin-top:0px'>۲) <span class='urduSentence'>ایک ساتھ ڈالنے کے لئے</span></p></div>
+<div class='urduBullets'><p style='line-height:1.5'>۳) <span class='urduSentence'>( zèng ) آلہ جو کہ کپڑوں کی بُنائی میں وارپ بناتا ہے</span></p></div>

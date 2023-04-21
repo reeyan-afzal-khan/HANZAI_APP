@@ -1,0 +1,3 @@
+<div class='urduBullets'><p style='margin-top:20px'>۱) <span class='urduSentence'>وائن</span></p></div>
+<div class='urduBullets'><p style='margin-top:0px'>۲) <span class='urduSentence'>شراب</span></p></div>
+<div class='urduBullets'><p style='line-height:1.6'>۳) <span class='urduSentence'>الکحل مشروب</span></p></div>

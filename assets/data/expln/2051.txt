@@ -1,0 +1,2 @@
+<div class='urduBullets'><p style='margin-top:20px'>۱) <span class='urduSentence'; style="line-height:2.0">ٹیم ؛ کلاس ؛ اسکواڈ ؛ ورک شفٹ ؛ درجہ بندی ؛ گروپوں کے لئے درجہ بندی</span></p></div>
+<div class='urduBullets'><p style='margin-top:0px'>۲) <span class='urduSentence'> خاندانی نام -  ( کسی فرد کا )</span></p></div>

@@ -1,0 +1,2 @@
+<div class='urduBullets'><p style='margin-top:20px'>۱) <span class='urduSentence'>مشکل ( کچھ کرنا )، مسئلہ</span></p></div>
+<div class='urduBullets'><p style='margin-top:0px'>۲) <span class='urduSentence'>( nàn ) آفت، مصیبت، ڈانٹنا</span></p></div>

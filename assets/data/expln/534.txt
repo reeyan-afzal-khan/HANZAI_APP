@@ -1,0 +1,2 @@
+<div class='urduBullets'><p style='margin-top:20px'>۱) <span class='urduSentence'>میں یا مجھے</span></p></div>
+<div class='urduBullets'><p style='line-height:1.7'>۲) <span class='urduSentence'>ہم ( بشمول اسپیکر اور وہ شخص جس سے بات ہوئی ہے )</span></p></div>

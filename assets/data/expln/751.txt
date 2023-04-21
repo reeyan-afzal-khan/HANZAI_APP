@@ -1,0 +1,4 @@
+<div class='urduBullets'><p style='margin-top:20px'>۱) <span class='urduSentence'>اچھا، ٹھیک، مناسب</span></p></div>
+<div class='urduBullets'><p style='margin-top:0px'>۲) <span class='urduSentence'>( hào ) کا شوق ہونا، کا رجحان ہونا</span></p></div>
+<div class='urduBullets'><p style='margin-top:0px'>۳) <span class='urduSentence'>تکمیل یا تیاری کی نشاندہی کرنے والا لاحقہ</span></p></div>
+<div class='urduBullets'><p style='margin-top:0px'>۴) <span class='urduSentence'>( دو لوگوں کے ) قریب</span></p></div>
