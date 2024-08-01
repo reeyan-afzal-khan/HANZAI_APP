@@ -1,6 +1,6 @@
 # HANZAI MOBILE APP
 
-Author: Reeyan Afzal
+Author: [Reeyan Afzal](https://www.linkedin.com/in/reeyan-afzal/) \
 Email Address: reeyanafzal1999@gmail.com
 
 ---
