@@ -10,7 +10,7 @@ Hanzai (Mobile Application) is all about making Chinese learning more accessible
 
 This FYP idea of mine was also presented in NEP.NIC Kohat for more information about the project, you may contact: [Anwar Ul Haq](https://www.linkedin.com/in/anwarr-ulhaq-1449a8138/) \
 
-##### Project Achievements:
+#### Project Achievements:
   1. Nomination in PMNIA (Prime Minister National Innovation Award)
   2. 2nd Position in SCIE - Tech 2023
 
