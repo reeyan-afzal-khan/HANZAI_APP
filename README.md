@@ -1,16 +1,13 @@
-# hanzai_app
+# HANZAI MOBILE APP
 
-A new Flutter project.
+Author: Reeyan Afzal
+Email Address: reeyanafzal1999@gmail.com
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+### About Hanzai: 
+Hanzai is a mobile application for learning the Chinese language (especially reading/writing Chinese) using Python, JavaScript, and Flutter. This project was conducted under the guidance of [Dr. Jawad Ashraf](https://www.kust.edu.pk/kust/index.php/fcomp/285-dr-jawad-ashraf) at KUST Kohat. Throughout the project, Dr. Ashraf provided invaluable assistance in tackling diverse subjects, including Model Training, Natural Language Processing (NLP), and the selection of SDKs and frameworks. The implementation and validation of the Chinese language aspect were reviewed by [Lecturer. Safdar Hussain](https://www.numl.edu.pk/faculty/203) at NUML Islamabad.
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### App Preview:
