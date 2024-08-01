@@ -12,4 +12,4 @@ Hanzai is a mobile application for learning the Chinese language (especially rea
 
 ### App Preview:
 
-![1-ezgif com-resize](https://github.com/user-attachments/assets/515ef5bc-628c-4fc7-abb3-f28627d641bf)
+![1-ezgif com-resize](https://github.com/user-attachments/assets/515ef5bc-628c-4fc7-abb3-f28627d641bf)  ![2-ezgif com-resize](https://github.com/user-attachments/assets/bbf71b3e-e489-405e-8b99-cf4504ab3664)
