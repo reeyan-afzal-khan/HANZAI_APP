@@ -12,6 +12,8 @@ Hanzai is a mobile application for learning the Chinese language (especially rea
 
 ### App Preview:
 
-![1-ezgif com-resize](https://github.com/user-attachments/assets/ef8d9469-4bd6-456f-b84e-980a53d272a7)  ![2-ezgif com-resize](https://github.com/user-attachments/assets/8f3730c0-9a23-491e-a2bf-44f669cfb0bc)  ![3-ezgif com-resize](https://github.com/user-attachments/assets/2120411c-8f1a-4b28-9cac-1e25f365679e)
 
-![4-ezgif com-resize](https://github.com/user-attachments/assets/2ce054f3-6984-4a23-aeb2-a048202079a8)  ![5-ezgif com-resize](https://github.com/user-attachments/assets/5ddaaf0b-f6cd-43d1-8cf2-135a3a71ca81)  ![6-ezgif com-resize](https://github.com/user-attachments/assets/c46c733c-6c13-4c84-9b98-813a6934a213)
+![1-ezgif com-resize](https://github.com/user-attachments/assets/1a851f55-9502-4201-ad80-fccb627c0c2c)  ![2-ezgif com-resize](https://github.com/user-attachments/assets/96be4681-95ad-475a-9e17-5cbbd7b1fbac)  ![3-ezgif com-resize](https://github.com/user-attachments/assets/ec512c8e-8818-476f-a342-546dceaead82)
+
+![4-ezgif com-resize](https://github.com/user-attachments/assets/610bc22f-fa19-41f1-a047-019bfdbb0898)  ![5-ezgif com-resize](https://github.com/user-attachments/assets/6ee359a9-2952-45eb-81ce-66c349baf6cb)  ![6-ezgif com-resize](https://github.com/user-attachments/assets/b1157a4a-d363-4da5-a36b-7d7d2283bd1e)
+
